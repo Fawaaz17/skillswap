@@ -32,3 +32,8 @@ ehthumbs.db
 # Developer agent cache files
 .gemini/
 .agents/
+
+# Local guide documentation (Not pushed to GitHub)
+project_explanation.md
+interview_guide.md
+
